@@ -4,11 +4,11 @@ A live private messenger web application created using React.js, Node.js, Expres
 
 ## Features
 
--Login
--Registration
--Ability to add contacts via username live
--Ability to send messages to contacts live
--Toggle sidebar button to switch between contacts and contact requests
+- Login
+- Registration
+- Ability to add contacts via username live
+- Ability to send messages to contacts live
+- Toggle sidebar button to switch between contacts and contact requests
 
 
 ## Demo Video
