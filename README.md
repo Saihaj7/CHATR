@@ -3,15 +3,9 @@ A responsive full-stack web application that allows users to communicate with ea
 
 Synchronicity of live messages and live contact requests are carried out using web sockets that enable live bi-directional communication between the client and server without having to poll,  while API requests load message/contact history in bulk efficiently.
 
-## Features
-
-- Login
-- Registration
-- Ability to add contacts via username live
-- Ability to send messages to contacts live
-- Toggle sidebar button to switch between contacts and contact requests
-
-
 ## Demo Video
 
 https://youtu.be/pINqdgrWMgg?si=aGHfkb7oY_HoWKfo
+
+
+
